@@ -1,0 +1,474 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Levcom — Precision CNC Metal Machining</title>
+  <meta name="description" content="Levcom — Precision CNC milling & turning. Custom metal parts, prototypes and production.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-lang="en">
+  <header class="site-header">
+    <div class="brand">
+      <!-- Inline SVG logo (editable) -->
+      <svg class="logo" width="160" height="48" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect width="100%" height="100%" fill="none"/>
+        <g fill="#9fbfff" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="60">
+          <text x="0" y="82">LEVCOM</text>
+        </g>
+      </svg>
+      <div class="brand-text">
+        <div class="company">Levcom</div>
+        <div class="tagline" data-key="tagline">Precision CNC Metal Machining</div>
+      </div>
+    </div>
+
+    <nav class="main-nav">
+      <a href="index.html" data-key="nav_home">Home</a>
+      <a href="about.html" data-key="nav_about">About</a>
+      <a href="services.html" data-key="nav_services">Services</a>
+      <a href="portfolio.html" data-key="nav_portfolio">Portfolio</a>
+      <a href="contact.html" data-key="nav_contact">Contact</a>
+    </nav>
+
+    <div class="lang-switch">
+      <button id="btn-en" onclick="setLanguage('en')">EN</button>
+      <button id="btn-ua" onclick="setLanguage('ua')">UA</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <h1 data-key="hero_title">Precision CNC Metal Machining on Demand</h1>
+      <p data-key="hero_sub">Custom milling, turning, and finishing for prototypes and production runs. ISO-level accuracy and fast turnaround.</p>
+      <a class="btn" href="contact.html" data-key="hero_cta">Get a Quote</a>
+    </section>
+
+    <section class="intro">
+      <h2 data-key="intro_title">Why choose Levcom</h2>
+      <p data-key="intro_text">Experienced machinists, modern Haas/Fanuc equipment, inspection and quality control, fast lead times.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2025 Levcom — <span data-key="footer_copy">Precision CNC Metal Machining</span></p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>About — Levcom</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-lang="en">
+  <header class="site-header">
+    <div class="brand">
+      <svg class="logo" width="160" height="48" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect width="100%" height="100%" fill="none"/>
+        <g fill="#9fbfff" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="60">
+          <text x="0" y="82">LEVCOM</text>
+        </g>
+      </svg>
+      <div class="brand-text">
+        <div class="company">Levcom</div>
+        <div class="tagline" data-key="tagline">Precision CNC Metal Machining</div>
+      </div>
+    </div>
+
+    <nav class="main-nav">
+      <a href="index.html" data-key="nav_home">Home</a>
+      <a href="about.html" data-key="nav_about">About</a>
+      <a href="services.html" data-key="nav_services">Services</a>
+      <a href="portfolio.html" data-key="nav_portfolio">Portfolio</a>
+      <a href="contact.html" data-key="nav_contact">Contact</a>
+    </nav>
+
+    <div class="lang-switch">
+      <button id="btn-en" onclick="setLanguage('en')">EN</button>
+      <button id="btn-ua" onclick="setLanguage('ua')">UA</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <article class="section">
+      <h1 data-key="about_title">About Levcom</h1>
+      <p data-key="about_text">Levcom provides precision CNC milling and turning services with experienced machinists and modern equipment. We specialize in close-tolerance parts for aerospace, automotive, medical and industrial customers.</p>
+
+      <h3 data-key="about_experience_title">Experience & Equipment</h3>
+      <ul>
+        <li data-key="about_item1">Haas & Fanuc CNC machines — 3- and 5-axis</li>
+        <li data-key="about_item2">Turning centers and multi-axis capabilities</li>
+        <li data-key="about_item3">Quality control: CMM, inspection reports</li>
+      </ul>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2025 Levcom — <span data-key="footer_copy">Precision CNC Metal Machining</span></p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Services — Levcom</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-lang="en">
+  <header class="site-header">
+    <div class="brand">
+      <svg class="logo" width="160" height="48" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect width="100%" height="100%" fill="none"/>
+        <g fill="#9fbfff" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="60">
+          <text x="0" y="82">LEVCOM</text>
+        </g>
+      </svg>
+      <div class="brand-text">
+        <div class="company">Levcom</div>
+        <div class="tagline" data-key="tagline">Precision CNC Metal Machining</div>
+      </div>
+    </div>
+
+    <nav class="main-nav">
+      <a href="index.html" data-key="nav_home">Home</a>
+      <a href="about.html" data-key="nav_about">About</a>
+      <a href="services.html" data-key="nav_services">Services</a>
+      <a href="portfolio.html" data-key="nav_portfolio">Portfolio</a>
+      <a href="contact.html" data-key="nav_contact">Contact</a>
+    </nav>
+
+    <div class="lang-switch">
+      <button id="btn-en" onclick="setLanguage('en')">EN</button>
+      <button id="btn-ua" onclick="setLanguage('ua')">UA</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="section">
+      <h1 data-key="services_title">Our Services</h1>
+      <div class="grid">
+        <article class="card">
+          <h4 data-key="svc_milling">CNC Milling</h4>
+          <p data-key="svc_milling_text">3- and 5-axis milling for prototypes and series production.</p>
+        </article>
+
+        <article class="card">
+          <h4 data-key="svc_turning">CNC Turning</h4>
+          <p data-key="svc_turning_text">High-precision turning for shafts, bushings and threaded components.</p>
+        </article>
+
+        <article class="card">
+          <h4 data-key="svc_finishing">Finishing & Treatment</h4>
+          <p data-key="svc_finishing_text">Anodizing, powder coating, passivation, surface treatments.</p>
+        </article>
+
+        <article class="card">
+          <h4 data-key="svc_cadcam">CAD / CAM</h4>
+          <p data-key="svc_cadcam_text">3D modelling, CAD cleanup and G-code generation.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2025 Levcom — <span data-key="footer_copy">Precision CNC Metal Machining</span></p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Portfolio — Levcom</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-lang="en">
+  <header class="site-header">
+    <div class="brand">
+      <svg class="logo" width="160" height="48" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect width="100%" height="100%" fill="none"/>
+        <g fill="#9fbfff" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="60">
+          <text x="0" y="82">LEVCOM</text>
+        </g>
+      </svg>
+      <div class="brand-text">
+        <div class="company">Levcom</div>
+        <div class="tagline" data-key="tagline">Precision CNC Metal Machining</div>
+      </div>
+    </div>
+
+    <nav class="main-nav">
+      <a href="index.html" data-key="nav_home">Home</a>
+      <a href="about.html" data-key="nav_about">About</a>
+      <a href="services.html" data-key="nav_services">Services</a>
+      <a href="portfolio.html" data-key="nav_portfolio">Portfolio</a>
+      <a href="contact.html" data-key="nav_contact">Contact</a>
+    </nav>
+
+    <div class="lang-switch">
+      <button id="btn-en" onclick="setLanguage('en')">EN</button>
+      <button id="btn-ua" onclick="setLanguage('ua')">UA</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="section">
+      <h1 data-key="portfolio_title">Portfolio</h1>
+      <div class="grid">
+        <div class="card">
+          <strong>Aluminum bracket</strong>
+          <p>Tolerance ±0.02 mm. Prototype production.</p>
+        </div>
+        <div class="card">
+          <strong>Stainless shaft</strong>
+          <p>Turned and ground for precise fit.</p>
+        </div>
+        <div class="card">
+          <strong>CNC housing</strong>
+          <p>Milled housing with powder coat finish.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2025 Levcom — <span data-key="footer_copy">Precision CNC Metal Machining</span></p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Contact — Levcom</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body data-lang="en">
+  <header class="site-header">
+    <div class="brand">
+      <svg class="logo" width="160" height="48" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect width="100%" height="100%" fill="none"/>
+        <g fill="#9fbfff" font-family="Montserrat, Arial, sans-serif" font-weight="700" font-size="60">
+          <text x="0" y="82">LEVCOM</text>
+        </g>
+      </svg>
+      <div class="brand-text">
+        <div class="company">Levcom</div>
+        <div class="tagline" data-key="tagline">Precision CNC Metal Machining</div>
+      </div>
+    </div>
+
+    <nav class="main-nav">
+      <a href="index.html" data-key="nav_home">Home</a>
+      <a href="about.html" data-key="nav_about">About</a>
+      <a href="services.html" data-key="nav_services">Services</a>
+      <a href="portfolio.html" data-key="nav_portfolio">Portfolio</a>
+      <a href="contact.html" data-key="nav_contact">Contact</a>
+    </nav>
+
+    <div class="lang-switch">
+      <button id="btn-en" onclick="setLanguage('en')">EN</button>
+      <button id="btn-ua" onclick="setLanguage('ua')">UA</button>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="section">
+      <h1 data-key="contact_title">Contact & Quote</h1>
+      <p data-key="contact_text">Upload your drawing (.STEP, .STP, .DXF, .DWG) and we will reply within 24 hours.</p>
+
+      <!-- Demo form: no server in this repo. See README for options (Formspree / Netlify forms / PHP). -->
+      <form onsubmit="return demoSubmit(event)" class="contact-form">
+        <input name="name" placeholder="Name / Ім'я" required>
+        <input name="email" type="email" placeholder="Email" required>
+        <input name="project" placeholder="Project / Part name" required>
+        <input name="file" type="file" accept=".step,.stp,.dxf,.dwg,.zip">
+        <textarea name="notes" placeholder="Notes (material, tolerance)"></textarea>
+        <button type="submit" data-key="contact_send">Send Request</button>
+      </form>
+
+      <div class="contact-info">
+        <p data-key="contact_phone">Phone: (to add)</p>
+        <p data-key="contact_email">Email: info@levcom.example (to update)</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2025 Levcom — <span data-key="footer_copy">Precision CNC Metal Machining</span></p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+:root{
+  --bg:#0b0c0d;
+  --panel:#141517;
+  --accent:#2da0ff;
+  --muted:#9aa4b2;
+  --text:#e6eef6;
+  --container:1100px;
+}
+
+*{box-sizing:border-box}
+html,body{height:100%}
+body{
+  margin:0;
+  font-family: Inter, Roboto, "Helvetica Neue", Arial, sans-serif;
+  background:linear-gradient(180deg,#070708 0%, #111214 100%);
+  color:var(--text);
+  -webkit-font-smoothing:antialiased;
+}
+
+.container{max-width:var(--container);margin:0 auto;padding:20px}
+
+.site-header{
+  display:flex;
+  align-items:center;
+  gap:18px;
+  padding:18px 20px;
+  border-bottom:1px solid rgba(255,255,255,0.03);
+}
+.brand{display:flex;align-items:center;gap:12px}
+.brand .logo{height:48px}
+.brand-text .company{font-weight:700}
+.brand-text .tagline{font-size:13px;color:var(--muted)}
+
+.main-nav{margin-left:auto;display:flex;gap:12px;align-items:center}
+.main-nav a{color:var(--muted);text-decoration:none;padding:8px;border-radius:6px;font-weight:600}
+.main-nav a:hover{color:var(--accent)}
+
+.lang-switch{margin-left:12px}
+.lang-switch button{background:transparent;border:1px solid rgba(255,255,255,0.06);color:var(--muted);padding:8px 10px;border-radius:6px;cursor:pointer}
+.lang-switch button:hover{border-color:var(--accent);color:var(--accent)}
+
+.hero{padding:40px 0}
+.hero h1{font-size:30px;margin:0 0 10px 0}
+.hero p{color:var(--muted);max-width:800px}
+.btn{display:inline-block;margin-top:12px;padding:10px 16px;background:var(--accent);color:#071224;border-radius:8px;text-decoration:none;font-weight:700}
+
+.section{padding:30px 0;border-top:1px solid rgba(255,255,255,0.02)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:14px}
+.card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));padding:14px;border-radius:10px;border:1px solid rgba(255,255,255,0.03)}
+.card p{color:var(--muted);margin:8px 0 0 0}
+
+.contact-form{max-width:720px;display:grid;gap:8px;margin-top:12px}
+.contact-form input,.contact-form textarea{padding:10px;border-radius:8px;border:1px solid rgba(255,255,255,0.04);background:transparent;color:inherit}
+.contact-form button{padding:10px 14px;background:var(--accent);border:none;color:#071224;border-radius:8px;cursor:pointer;font-weight:700}
+
+.site-footer{padding:18px 0;text-align:center;color:var(--muted);border-top:1px solid rgba(255,255,255,0.02)}
+@media (max-width:800px){
+  .main-nav{order:3;width:100%;justify-content:flex-start;gap:8px;padding-top:8px}
+  .lang-switch{order:2}
+  .site-header{flex-wrap:wrap}
+  .hero h1{font-size:24px}
+}
+// Simple bilingual switcher (en / ua) for static pages.
+// All translatable text elements use attribute `data-key` with a key that matches T[lang][key].
+const T = {
+  en: {
+    nav_home: "Home", nav_about: "About", nav_services: "Services", nav_portfolio: "Portfolio", nav_contact: "Contact",
+    tagline: "Precision CNC Metal Machining",
+    hero_title: "Precision CNC Metal Machining on Demand",
+    hero_sub: "Custom milling, turning, and finishing for prototypes and production runs. ISO-level accuracy and fast turnaround.",
+    hero_cta: "Get a Quote",
+    intro_title: "Why choose Levcom",
+    intro_text: "Experienced machinists, modern Haas/Fanuc equipment, inspection and quality control, fast lead times.",
+    about_title: "About Levcom",
+    about_text: "Levcom provides precision CNC milling and turning services with experienced machinists and modern equipment. We specialize in close-tolerance parts for aerospace, automotive, medical and industrial customers.",
+    about_experience_title: "Experience & Equipment",
+    about_item1: "Haas & Fanuc CNC machines — 3- and 5-axis",
+    about_item2: "Turning centers and multi-axis capabilities",
+    about_item3: "Quality control: CMM, inspection reports",
+    services_title: "Our Services",
+    svc_milling: "CNC Milling", svc_milling_text: "3- and 5-axis milling for prototypes and series production.",
+    svc_turning: "CNC Turning", svc_turning_text: "High-precision turning for shafts, bushings and threaded components.",
+    svc_finishing: "Finishing & Treatment", svc_finishing_text: "Anodizing, powder coating, passivation, surface treatments.",
+    svc_cadcam: "CAD / CAM", svc_cadcam_text: "3D modelling, CAD cleanup and G-code generation.",
+    portfolio_title: "Portfolio",
+    contact_title: "Contact & Quote",
+    contact_text: "Upload your drawing (.STEP, .STP, .DXF, .DWG) and we will reply within 24 hours.",
+    contact_send: "Send Request",
+    contact_phone: "Phone: (to add)",
+    contact_email: "Email: info@levcom.example (to update)",
+    footer_copy: "Precision CNC Metal Machining"
+  },
+  ua: {
+    nav_home: "Головна", nav_about: "Про нас", nav_services: "Послуги", nav_portfolio: "Портфоліо", nav_contact: "Контакти",
+    tagline: "Високоточна ЧПУ-обробка металу",
+    hero_title: "Високоточна ЧПУ-обробка на замовлення",
+    hero_sub: "Фрезерування, токарна обробка та фінішне оздоблення для прототипів і серій. Точність ISO та швидкий термін виконання.",
+    hero_cta: "Отримати прорахунок",
+    intro_title: "Чому Levcom",
+    intro_text: "Досвідчені майстри, сучасне обладнання Haas/Fanuc, контроль якості та швидкі терміни.",
+    about_title: "Про Levcom",
+    about_text: "Levcom надає послуги з точного фрезерування та токарної обробки на сучасному обладнанні. Ми спеціалізуємося на деталях з малими допусками для аерокосмічної, автомобільної, медичної та промислової галузей.",
+    about_experience_title: "Досвід та обладнання",
+    about_item1: "ЧПУ-станки Haas та Fanuc — 3- і 5-осьові",
+    about_item2: "Токарні центри та багатоколісні конфігурації",
+    about_item3: "Контроль якості: CMM, звіти інспекції",
+    services_title: "Наші послуги",
+    svc_milling: "Фрезерування на ЧПУ", svc_milling_text: "3- та 5-осьове фрезерування, прототипи та серійне виробництво.",
+    svc_turning: "Токарна обробка на ЧПУ", svc_turning_text: "Високоточне точіння валів, втулок і різьбових деталей.",
+    svc_finishing: "Фінішні покриття", svc_finishing_text: "Анодування, порошкове покриття, пасивація, обробка поверхні.",
+    svc_cadcam: "CAD / CAM", svc_cadcam_text: "3D моделювання, підготовка креслень та генерація G-коду.",
+    portfolio_title: "Портфоліо",
+    contact_title: "Контакти та прорахунок",
+    contact_text: "Завантажте креслення (.STEP, .STP, .DXF, .DWG) — ми відповімо протягом 24 годин.",
+    contact_send: "Надіслати запит",
+    contact_phone: "Телефон: (додати)",
+    contact_email: "Email: info@levcom.example (оновити)",
+    footer_copy: "Високоточна ЧПУ-обробка металу"
+  }
+};
+
+function setLanguage(lang){
+  document.body.setAttribute('data-lang', lang);
+  document.querySelectorAll('[data-key]').forEach(el => {
+    const key = el.getAttribute('data-key');
+    if (T[lang] && T[lang][key]) el.textContent = T[lang][key];
+  });
+  // update nav too (some nav anchors in header use data-key)
+  document.querySelectorAll('.main-nav a').forEach(a=>{
+    const k = a.getAttribute('data-key');
+    if (k && T[lang] && T[lang][k]) a.textContent = T[lang][k];
+  });
+  // highlight active language button
+  document.getElementById('btn-en').style.opacity = (lang==='en')? '1':'0.6';
+  document.getElementById('btn-ua').style.opacity = (lang==='ua')? '1':'0.6';
+}
+
+// set default language on load
+document.addEventListener('DOMContentLoaded', ()=> setLanguage('en'));
+
+// Demo form submit handler (no backend included)
+function demoSubmit(e){
+  e.preventDefault();
+  alert((document.body.getAttribute('data-lang')==='ua') ? 'Ця демо-сторінка не надсилає файли. Налаштуйте Formspree/Netlify Forms або бекенд (PHP/Node) згідно README.' : 'This demo page does not upload files. Configure Formspree/Netlify Forms or a backend (PHP/Node) per README.');
+  return false;
+}
